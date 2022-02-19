@@ -1,0 +1,49 @@
+.para{
+    border:5px solid red;
+    background-color: aqua;
+    height:300px;
+    width:500px;
+    margin:2px;
+    padding:10px;
+
+}
+
+.mat{
+    border:2px solid pink;
+    background-color: aqua;
+    margin-left: 100px;
+    margin-top:10px;
+    
+}
+ /* class */
+.one{
+    border:2px solid pink;
+    height: 100px;
+    width: 200px;
+}
+.two{
+    background-color: blueviolet;
+}
+/* // id */
+#three{
+    border:2px solid pink;
+    height: 100px;
+    width: 200px;
+}
+#four{
+    background-color: blueviolet;
+}
+
+.head{
+    background-color: pink;
+}
+.nap{
+    border:10px groove hotpink;
+}
+
+.maps{
+    border: 2px solid red;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
